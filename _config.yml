@@ -1,11 +1,12 @@
-title: Morgans Github page
+--- title: "Github" date: 2021-03-31 ---
 author: Morgan Navarrete
 email: your-email@domain.com
 description: > This is my page
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: your-twitter-handle
+github_username:  your-github-handle
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: true
 theme: minima
+
